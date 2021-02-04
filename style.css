@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+.page-headeng {
+    font-size: 25px;
+    font-weight: 900;
+    color: rgba(27, 18, 107, 0.445);
+}
